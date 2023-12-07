@@ -1,4 +1,4 @@
-package example_random_generator
+package example.example_random_generator
 
 import scala.util.Random
 

@@ -1,4 +1,4 @@
-package example_web
+package example.example_web
 
 import org.eclipse.jetty.server.Server
 

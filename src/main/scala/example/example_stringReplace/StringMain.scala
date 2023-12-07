@@ -1,4 +1,4 @@
-package example_stringReplace
+package example.example_stringReplace
 
 object StringMain {
   def main(args: Array[String]) = {
