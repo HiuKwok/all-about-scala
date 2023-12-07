@@ -25,6 +25,5 @@ object multiLevelInheritance {
       println(s"c.b = ${c.b}") // B property (direct superclass)
       println(s"c.c = ${c.c}") // C property
     }
-  }
 
 }
