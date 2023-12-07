@@ -7,7 +7,7 @@ object Main extends App {
 
   Console.println("Hello World: " + (args mkString ", "))
 
-  val server = new Server(1777)
+  val server = new Server(8080)
 
   server.start()
   server.join()
